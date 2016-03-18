@@ -9,4 +9,4 @@ class Pintura:public Obras{
  public:
  	Pintura(string, string, string, string, string);
  	string toString()const;
-}
+};

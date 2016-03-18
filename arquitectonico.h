@@ -9,4 +9,4 @@ class Arquitectonico:public Obras{
  public:
  	Arquitectonico(string, string, string, string);
  	string toString()const;
-}
+};

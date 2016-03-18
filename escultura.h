@@ -10,4 +10,4 @@ class Escultura:public Obras{
  public:
  	Escultura(string, string, string, int, string);
  	string toString()const;
-}
+};

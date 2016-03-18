@@ -9,4 +9,4 @@ class Literatura:public Obras{
  public:
  	Literatura(string, string, string, string, string);
  	string toString()const;
-}
+};
