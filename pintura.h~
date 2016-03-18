@@ -8,5 +8,5 @@ class Pintura:public Obras{
 	string materialLienzo, tecnica;
  public:
  	Pintura(string, string, string, string, string);
- 	virtual string toString()const;
+ 	string toString()const;
 };

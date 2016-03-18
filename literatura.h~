@@ -8,5 +8,5 @@ class Literatura:public Obras{
 	string genero, epoca;
  public:
  	Literatura(string, string, string, string, string);
- 	virtual string toString()const;
+ 	string toString()const;
 };

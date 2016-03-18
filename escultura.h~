@@ -9,5 +9,5 @@ class Escultura:public Obras{
 	string material;
  public:
  	Escultura(string, string, string, int, string);
- 	virtual string toString()const;
+ 	string toString()const;
 };

@@ -8,5 +8,5 @@ class Arquitectonico:public Obras{
 	string terreno;
  public:
  	Arquitectonico(string, string, string, string);
- 	virtual string toString()const;
+ 	string toString()const;
 };
